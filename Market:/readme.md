@@ -1,4 +1,6 @@
-sch: https://shop.advanceautoparts.com/web/SearchResults?searchTerm=gasket+material&storeId=10151&catalogId=10051&langId=-1
+sch: https://www.google.com/search?q=gasket+paper
+
+store.sch: https://www.autozone.com/sealants-glues-adhesives-and-tape/gasket-material, https://shop.advanceautoparts.com/web/SearchResults?searchTerm=gasket+material&storeId=10151&catalogId=10051&langId=-1, https://www.oreillyauto.com/shop/b/oil--chemicals---fluids/adhesives---sealants/gasket-material/33e43ac38f2f
 
 # Thickness:
 ## 1/32
