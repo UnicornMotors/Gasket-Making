@@ -1,0 +1,2 @@
+- https://www.smokstak.com/forum/threads/gasket-making-and-materials-what-to-use-where.89564/
+- [Different ways to make your own gasket from scratch | DIY](https://youtu.be/RDYy_amSarU)
